@@ -5,7 +5,7 @@
 
 ## <img src="http://www.biddlestudios.com/images/twitter_favicon.png" alt="twitter logo" style="width:10px;height:10px"> \#JiscTDM
 
-###Introduction
+####Introduction
 
 This workshop aims to ensure that Jisc staff are aware of the implications of TDM techniques for their various roles.  This will be acheived by:
 
@@ -15,7 +15,7 @@ This workshop aims to ensure that Jisc staff are aware of the implications of TD
 * Allowing Jisc staff to discuss with experts any questions they might have.
 
 
-### Organisers:
+####Organisers:
 
 * Peter Murray-Rust
 * Charles Oppenheim
@@ -24,7 +24,7 @@ This workshop aims to ensure that Jisc staff are aware of the implications of TD
 * Naomi Korn
 * The ContentMine Team [@TheContentMine] (https://twitter.com/TheContentMine)
 
-### Link to [Pre-workshop Installation Instructions] (https://github.com/ContentMine/SciDataCon2014/blob/master/Info/README.md)
+#### Link to [Pre-workshop Installation Instructions] (https://github.com/ContentMine/SciDataCon2014/blob/master/Info/README.md)
 
 ### Agenda
 |Times         | Session |
