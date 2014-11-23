@@ -35,7 +35,7 @@ This workshop aims to ensure that Jisc staff are aware of the implications of TD
 |11:45| Break |
 |12:00| How is TDM relevant for the work of Jisc staff? Discussion facilitated by Naomi Korn |
 |13:00| Lunch <ul><li>Post-it note exercise: what are the implications of TDM for Jisc's main stakeholder groups? |
-|13:45|[Legal implications of content mining</li></ul>] (https://github.com/ContentMine/SciDataCon2014/tree/master/Legal-Discussion) <ul><li> Covering the copyright and database rights that impact on contact mining activities, including statutory and case law.</li></ul>|
+|13:45|[Legal implications of content mining</li></ul>] (https://github.com/ContentMine/JISC-Workshop-1Dec2014/blob/master/Legal.md) <ul><li> Covering the copyright and database rights that impact on contact mining activities, including statutory and case law.</li></ul>|
 |14:15| Intro to any relevant services and their role e.g. NaCTeM, CrossRef|
 |14:30| Q+A with general discussion facilitated by Naomi Korn.
 |15:30| Event close|
