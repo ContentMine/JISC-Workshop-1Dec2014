@@ -6,10 +6,10 @@ This session is led by Charles Oppenheim ([@CharlesOppenh](https://twitter.com/C
 
 We will cover the relevant statutory laws, exemptions, case law and other information relevant for researchers wishing to embark on responsible and legal content mining projects.
 
-Slides are available [here](http://www.slideshare.net/richardsmithunna/social-political-and-legal-aspects-of-text-and-data-mining-tdm).
+Slides are available [here](http://www.slideshare.net/JennyMolloy/contentmine).
 
-<a href="http://www.slideshare.net/richardsmithunna/social-political-and-legal-aspects-of-text-and-data-mining-tdm
-" target="_blank"><img src="http://image.slidesharecdn.com/cambridgetdm-141003041716-phpapp02/95/social-political-and-legal-aspects-of-text-and-data-mining-tdm-1-638.jpg" 
+<a href="http://www.slideshare.net/JennyMolloy/contentmine
+" target="_blank"><img src="hhttp://image.slidesharecdn.com/jisctdm-141127122926-conversion-gate01/95/legal-framework-for-tdm-1-638.jpg?cb=1417113092" 
 alt="Charles Oppenheim Slides" width="800" border="10" /></a>
 
 #### UK law
