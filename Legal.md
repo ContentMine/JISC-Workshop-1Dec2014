@@ -9,7 +9,7 @@ We will cover the relevant statutory laws, exemptions, case law and other inform
 Slides are available [here](http://www.slideshare.net/JennyMolloy/contentmine).
 
 <a href="http://www.slideshare.net/JennyMolloy/contentmine
-" target="_blank"><img src="hhttp://image.slidesharecdn.com/jisctdm-141127122926-conversion-gate01/95/legal-framework-for-tdm-1-638.jpg?cb=1417113092" 
+" target="_blank"><img src="hhttp://image.slidesharecdn.com/jisctdm-141127122926-conversion-gate01/95/legal-framework-for-tdm-1-638.jpg" 
 alt="Charles Oppenheim Slides" width="800" border="10" /></a>
 
 #### UK law
